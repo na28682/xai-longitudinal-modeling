@@ -13,7 +13,7 @@ The figure below displays total watch time (in hours) aggregated by geography us
 raw exported analytics data.
 </p>
 
-<img width="867" height="447" alt="e02c3d81-fbfc-4db5-9d2a-831d505a1769" src="https://github.com/user-attachments/assets/33006ddc-75fc-48b5-b03b-5416404f2b51" />
+<img width="433.5" height="223.5" alt="e02c3d81-fbfc-4db5-9d2a-831d505a1769" src="https://github.com/user-attachments/assets/33006ddc-75fc-48b5-b03b-5416404f2b51" />
 
 
 <p>
