@@ -9,8 +9,8 @@ The dataset tracks daily views since the video was published, highlights high-pe
 
 | Date       | Views | High Performance |
 |-----------|------|----------------|
-| 2020-07-30 | 342  | ✅ 1 |
-| 2020-07-31 | 415  | ✅ 1 |
+| 2020-07-30 | 342  | 1 |
+| 2020-07-31 | 415  | 1 |
 | 2020-08-01 | 146  | NA |
 | 2020-08-02 | 187  | NA |
 | 2020-08-03 | 129  | NA |
@@ -20,7 +20,7 @@ The dataset tracks daily views since the video was published, highlights high-pe
 | 2020-08-07 | 99   | NA |
 | 2020-08-08 | 141  | NA |
 
-> Note: The full dataset contains 2,020 rows. High-performance days are flagged with ✅.
+> Note: The full dataset contains 2,020 rows. Find the full dataset in the Raw Files folder.
 
 ---
 
@@ -28,8 +28,8 @@ The dataset tracks daily views since the video was published, highlights high-pe
 
 | Date       | Views | High Performance |
 |-----------|------|----------------|
-| 2020-07-30 | 342  | ✅ 1 |
-| 2020-07-31 | 415  | ✅ 1 |
+| 2020-07-30 | 342  | 1 |
+| 2020-07-31 | 415  | 1 |
 
 ---
 
@@ -47,5 +47,3 @@ The dataset tracks daily views since the video was published, highlights high-pe
 | 2020-08-06 | 103  | Thursday  | August |
 | 2020-08-07 | 99   | Friday    | August |
 | 2020-08-08 | 141  | Saturday  | August |
-
-> Note: High-performance days (✅) are easy to spot and help analyze trends by weekday and month. This is useful for understanding audience engagement patterns.
