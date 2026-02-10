@@ -13,9 +13,8 @@ The figure below displays total watch time (in hours) aggregated by geography us
 raw exported analytics data.
 </p>
 
-<img src="figures/watch_time_by_geography_raw.png"
-     alt="Raw watch time by geography bar chart"
-     width="800">
+<img src=<img width="1734" height="894" alt="e02c3d81-fbfc-4db5-9d2a-831d505a1769" src="https://github.com/user-attachments/assets/33006ddc-75fc-48b5-b03b-5416404f2b51" />
+
 
 <p>
 This visualization highlights a key challenge in the raw data: a small number of categories
