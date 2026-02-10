@@ -1,0 +1,12 @@
+   Date       Views weekday   month 
+   <date>     <dbl> <chr>     <chr> 
+ 1 2020-07-30   342 Thursday  July  
+ 2 2020-07-31   415 Friday    July  
+ 3 2020-08-01   146 Saturday  August
+ 4 2020-08-02   187 Sunday    August
+ 5 2020-08-03   129 Monday    August
+ 6 2020-08-04    67 Tuesday   August
+ 7 2020-08-05    85 Wednesday August
+ 8 2020-08-06   103 Thursday  August
+ 9 2020-08-07    99 Friday    August
+10 2020-08-08   141 Saturday  August
